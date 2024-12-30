@@ -1,0 +1,69 @@
+{
+  "games": [
+    {
+      "id": "3498",
+      "gameName": "Grand Theft Auto V",
+      "review": [
+        {
+          "name": "Salvatore",
+          "like": "like",
+          "rating": 4,
+          "message": "Ottimo gioco! \nLo comprerei per tutte le console e pc a disposizione!\n"
+        },
+        {
+          "name": "Marco",
+          "like": "dislike",
+          "rating": 1,
+          "message": "Non mi piace, troppo violento. Richiedo il rimborso."
+        },
+        {
+          "name": "Francesca",
+          "like": "like",
+          "rating": 3,
+          "message": "Carino, mi piace!"
+        },
+        {
+          "name": "Luigi",
+          "like": "like",
+          "rating": 5,
+          "message": "Gioco PERFETTO!\nNon vedo l'ora che esca GTA VI."
+        },
+        {
+          "name": "Antonio",
+          "like": "dislike",
+          "rating": 0,
+          "message": "Orribile. Disgustoso. "
+        },
+        {
+          "name": "Maria",
+          "like": "like",
+          "rating": 3,
+          "message": "Soddisfatta del gioco. Tutto sommato mi piace!"
+        },
+        {
+          "name": "Marco Calenda",
+          "like": "dislike",
+          "rating": 0,
+          "message": "Non l'ho giocato, ma dalle immagini mi sembra brutto."
+        }
+      ]
+    },
+    {
+      "id": "3328",
+      "gameName": "The Witcher 3: Wild Hunt",
+      "review": [
+        {
+          "name": "Maria",
+          "like": "like",
+          "rating": 3,
+          "message": "Soddisfatta del gioco. Tutto sommato mi piace!"
+        }
+      ]
+    },
+    {
+      "id": "4200",
+      "gameName": "Portal 2",
+      "review": []
+    }
+  ]
+}
